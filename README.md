@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Snake
 
 A classic Snake game, built as a single self-contained web page — no installs, no build tools, no dependencies beyond a Google Font.
@@ -31,3 +32,7 @@ Built with plain HTML, CSS, and JavaScript using the HTML5 `<canvas>` element �
 ## License
 
 MIT — free to use, modify, and share.
+=======
+# snake-game
+simple snake game that you can run in your browser:)
+>>>>>>> d3ecc9dd07b051f822e03e3f99dfa0fb31687df0
